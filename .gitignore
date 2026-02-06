@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+venv/
+env/
+ENV/
+
+# Node / React
+node_modules/
+frontend_project/node_modules/
+frontend_project/build/
+build/
+dist/
+
+# Env & secrets
+.env
+*.env
+backend/.env
+secrets/
+config.py
+
+# Audio files
+backend/uploads/
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.m4a
+*.aac
+remix_*
+
+# Logs & cache
+*.log
+logs/
+.cache/
+.pytest_cache/
+coverage/
+
+# IDE / OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# data
+Data/
