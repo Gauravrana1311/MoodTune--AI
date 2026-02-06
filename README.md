@@ -1,4 +1,4 @@
-## 🎵 Mood-Based Song Remix & Recommendation System
+## 🎵 MoodTune--AI (Mood-Based Song Remix & Recommendation System)
 ```
 An AI-powered full-stack web application that analyzes the **mood of an uploaded song**, recommends **similar tracks from Spotify**, and generates a **mood-based remix** of the audio.
 
